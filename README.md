@@ -1,4 +1,6 @@
-Always seeking to connect data with purpose.<img width="907" height="462" alt="Data Science - image" src="https://github.com/user-attachments/assets/3e4b3c82-abc0-4d88-acb9-9df8224f0caf" />
+<img width="907" height="462" alt="Data Science - image" src="https://github.com/user-attachments/assets/3e4b3c82-abc0-4d88-acb9-9df8224f0caf" />
+Always seeking to connect data with purpose.
+
 # 👋 Hi, I'm Daniel
 Data Scientis & Petroleum engineer with a master's degree in petroleum & environmental engineering. I'm currently focused on applying analytical models and strategic data visualization to the energy, environmental, and public sectors.  
 My experience blends institutional traceability, regulatory compliance, and technological modernization, using tools like Python, Power BI, and machine learning.
